@@ -1,5 +1,5 @@
 # MTMC
-A repo of resources about object tracking, including github and codes
+A repor of resources about object tracking
 
 ## Object Detection 
 YOLO? 
