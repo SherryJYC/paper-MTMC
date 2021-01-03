@@ -16,7 +16,11 @@ YOLO?
 [A multi-camera vehicle detection, tracking and re-identification system](https://github.com/cw1204772/AIC2018_iamai)
 [Resource collection about multi camera network](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network)
 
-## Person Re-Identifition
+## Person Re-Identification
+> multi object tracking
 [Resource collection about person reid dataset](https://github.com/NEU-Gou/awesome-reid-dataset)
+
+## Vehicle Re-Identification
+> multi camera tracking
 
 
