@@ -1,10 +1,5 @@
 # MTMC
-A paper repo of Multi target Multi Camera (MTMC) tracking and related topics
-
-## Object Detection 
-YOLO? 
-
-## Single Object Tracking
+A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 ## Multi Object Tracking
 [DeepSORT](https://github.com/nwojke/deep_sort) <br/>
