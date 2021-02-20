@@ -1,5 +1,5 @@
 # MTMC
-A repor of resources about object tracking
+A paper repo of Multi target Multi Camera (MTMC) tracking and related topics
 
 ## Object Detection 
 YOLO? 
