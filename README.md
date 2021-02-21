@@ -92,7 +92,7 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 > Centralized (combine cross-camera views before tracking, like Wen et al.) and Distributed methods (single-camera tracking before fusion)
 
 ### 2018
-- Features for Multi-Target Multi-Camera Tracking and Re-Identification, Ristani & Tomasi [[paper]](https://arxiv.org/abs/1803.10859)
+- Features for Multi-Target Multi-Camera Tracking and Re-Identification, Ristani & Tomasi [[paper]](https://arxiv.org/abs/1803.10859) [[code]](https://github.com/SamvitJ/Duke-DeepCC)
 > tracklet -> single camera trajectory (correlation clustering) -> multi camera trajectory
 
 - Vehicle Re-Identification with the Space-Time Prior, Wu et al. [[paper]](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf) [[code]](https://github.com/cw1204772/AIC2018_iamai)
