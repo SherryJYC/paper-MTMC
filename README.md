@@ -103,7 +103,7 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 > 3D position for affinity computation, need know camera parameters, cross-view coupling before trajectory
 
 
-## Useful Github Repo
+## Related Github Repo
 - [Multi-camera live object tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
 
 - [Resource collection about multi camera network](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network)<br/>
@@ -121,7 +121,7 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 - [Anti-UAV Challenge](https://anti-uav.github.io/)
 
-## Famous Group or Researcher
+## Related Group or Researcher
 
 - [Dynamic Vision and Learning Group, TUM](https://dvl.in.tum.de/research/)
 > TrackFormer, Tracktor++, Siamese
