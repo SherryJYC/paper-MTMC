@@ -121,6 +121,8 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 - [Anti-UAV Challenge](https://anti-uav.github.io/)
 
+- [Waymo Open Dataset Challenge](https://waymo.com/open/challenges)
+
 ## Related Group or Researcher
 
 - [Dynamic Vision and Learning Group, TUM](https://dvl.in.tum.de/research/)
