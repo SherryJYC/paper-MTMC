@@ -4,21 +4,21 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 ## Multi Target Single Camera Tracking Paper
 
 ### 2021
-- TrackFormer: Multi-Object Tracking with Transformers, Meinhardt et al. 
+- TrackFormer: Multi-Object Tracking with Transformers, Meinhardt et al. [[paper]](https://arxiv.org/abs/2101.02702)
 > Transformer, detection and tracking simultaneously
 
 ### 2020
-- How To Train Your Deep Multi-Object Tracker, Xu et al. 
+- How To Train Your Deep Multi-Object Tracker, Xu et al. [[paper]](https://arxiv.org/abs/1906.06618)
 > Deep Hungarian Net, approximate MOTA, MOTP for loss function directly
 
-- Learning a Neural Solver for Multiple Object Tracking, Braso & Leal-Taixe
+- Learning a Neural Solver for Multiple Object Tracking, Braso & Leal-Taixe [[paper]](https://arxiv.org/abs/1912.07515)
 > apperance embedding (node) and geometry distance embedding (edge) for graph, edge classification with cross entropy loss 
 
-- Deep learning in video multi-object tracking: A survey, Ciaparrone et al.
+- Deep learning in video multi-object tracking: A survey, Ciaparrone et al. [[paper]](https://arxiv.org/abs/1907.12740)
 > pipeline: detection, feature extraction, affinity, association
 
 ### 2019
-- Spatial-Temporal Relation Networks for Multi-Object Tracking, Xu et al. 
+- Spatial-Temporal Relation Networks for Multi-Object Tracking, Xu et al. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Spatial-Temporal_Relation_Networks_for_Multi-Object_Tracking_ICCV_2019_paper.pdf)
 > use appearance, location and topology cues for similarity score, then graph solved by Hungarian algorithm
 
 - Graph convolutional tracking, Gao et al.
@@ -105,10 +105,6 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 ## Useful Github Repo
 - [Multi-Camera Live Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
-> based on DeepSORT and YOLO v4
-
-- [2018 NVIDIA AI City Challenge Team iamai](https://github.com/cw1204772/AIC2018_iamai)<br/>
-> Vehicle Re-Identification with the Space-Time Prior
 
 - [Resource collection about multi camera network](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network)<br/>
 
