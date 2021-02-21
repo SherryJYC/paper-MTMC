@@ -27,7 +27,7 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 - Tracking without bells and whistles, Bergmann et al. [[paper]](https://arxiv.org/abs/1903.05625) [[code]](https://github.com/phil-bergmann/tracking_wo_bnw)
 > motion and appearance extention -> Tracktor++
 
-- Deep Learning for Visual Tracking: A Comprehensive Survey, Marvasti-Zadeh et al. [[pape]](https://arxiv.org/abs/1912.00535)
+- Deep Learning for Visual Tracking: A Comprehensive Survey, Marvasti-Zadeh et al. [[paper]](https://arxiv.org/abs/1912.00535)
 > traditional and deep visual trackers 
 
 - A Review of Visual Trackers and Analysis of its Application to Mobile Robot, You et al. [[paper]](https://arxiv.org/abs/1910.09761)
@@ -117,10 +117,15 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 ## Related Competition
 - [AI City Challenge](https://www.aicitychallenge.org/)
 
+- [Anti-UAV Challenge](https://anti-uav.github.io/)
+
 ## Famous Group or Researcher
 
 - [Dynamic Vision and Learning Group, TUM](https://dvl.in.tum.de/research/)
 > TrackFormer, Tracktor++, Siamese
+
+- [CVLab, EPFL](https://www.epfl.ch/labs/cvlab/research/research-surv/research-body-surv-index-php/)
+> Probabilistic Occupancy Map
 
 
 <!--
