@@ -54,7 +54,6 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 ### 2016
 - Learning by tracking: Siamese CNN for robust target association, Leal-Taixe et al.
 > use Siamese CNN to learn similarity, for data association, graph solved by Linear Programming 
-- 
 
 ### 2014
 - Learning an image-based motion context for multiple people tracking, Leal-Taixe et al.
@@ -81,6 +80,12 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 - ELECTRICITY: An Efficient Multi-camera Vehicle Tracking System for Intelligent City, Qian et al.
 > single camera tracking -> match tracklets across camera views
+
+- Pose-Assisted Multi-Camera Collaboration for Active Object Tracking, Li et al.
+> Reinforcement learning, collaborative multi-camera
+
+- Reconstruction of 3D flight trajectories from ad-hoc camera networks, Li et al.
+> camera synchronization, SfM, Bundle Adjustment, spline representation for drone trajectory  
 
 ### 2019
 - People tracking in multi-camera systems: a review, Iguernaissi et al.
@@ -113,7 +118,7 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 - [OpenMMLab: toolbox for SOT, MOT](https://github.com/open-mmlab/mmtracking)
 
-## Important Competitions
+## Related Competition
 - [AI City Challenge](https://www.aicitychallenge.org/)
 
 ## Famous Group or Researcher
