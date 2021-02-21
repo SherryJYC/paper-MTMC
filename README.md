@@ -21,85 +21,85 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 - Spatial-Temporal Relation Networks for Multi-Object Tracking, Xu et al. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Spatial-Temporal_Relation_Networks_for_Multi-Object_Tracking_ICCV_2019_paper.pdf)
 > use appearance, location and topology cues for similarity score, then graph solved by Hungarian algorithm
 
-- Graph convolutional tracking, Gao et al.
+- Graph convolutional tracking, Gao et al. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Graph_Convolutional_Tracking_CVPR_2019_paper.pdf)
 > GNN, Siamese network
 
-- Tracking without bells and whistles, Bergmann et al. 
+- Tracking without bells and whistles, Bergmann et al. [[paper]](https://arxiv.org/abs/1903.05625) [[code]](https://github.com/phil-bergmann/tracking_wo_bnw)
 > motion and appearance extention -> Tracktor++
 
-- Deep Learning for Visual Tracking: A Comprehensive Survey, Marvasti-Zadeh et al.
+- Deep Learning for Visual Tracking: A Comprehensive Survey, Marvasti-Zadeh et al. [[pape]](https://arxiv.org/abs/1912.00535)
 > traditional and deep visual trackers 
 
-- A Review of Visual Trackers and Analysis of its Application to Mobile Robot, You et al.
+- A Review of Visual Trackers and Analysis of its Application to Mobile Robot, You et al. [[paper]](https://arxiv.org/abs/1910.09761)
 > correlation filter, deep learning and convolutional features
 
 ### 2018
 
-- Exploit the Connectivity: Multi-Object Tracking with TrackletNet, Wang et al. 
+- Exploit the Connectivity: Multi-Object Tracking with TrackletNet, Wang et al. [[paper]](https://arxiv.org/abs/1811.07258)
 > use epipolar geometry, tracklet as node in graph
 
 ### 2017
-- Multi-Object Tracking with Quadruplet Convolutional Neural Networks, Son et al. 
+- Multi-Object Tracking with Quadruplet Convolutional Neural Networks, Son et al. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Son_Multi-Object_Tracking_With_CVPR_2017_paper.pdf)
 > learn statistics to normalize effect of camera poses, temporal adjacent constraint for data association 
 
-- Real-Time Multiple Object Tracking, Murray.
+- Real-Time Multiple Object Tracking, Murray. [[paper]](https://www.diva-portal.org/smash/get/diva2:1146388/FULLTEXT01.pdf)
 > not use appearance feature, very fast, not accurate
 
-- High-Speed Tracking-by-Detection Without Using Image Information, Bochinski et al. 
+- High-Speed Tracking-by-Detection Without Using Image Information, Bochinski et al. [[paper]](http://elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf) [[code]](https://github.com/bochinski/iou-tracker)
 > IoU tracker, no visual cues used, fast  
 
-- Online Multi-Target Tracking Using Recurrent Neural Networks, Milan et al. 
+- Online Multi-Target Tracking Using Recurrent Neural Networks, Milan et al. [[paper]](https://arxiv.org/abs/1604.03635)
 > RNN as tracker, LSTM for data association
 
 ### 2016
-- Learning by tracking: Siamese CNN for robust target association, Leal-Taixe et al.
+- Learning by tracking: Siamese CNN for robust target association, Leal-Taixe et al. [[paper]](https://arxiv.org/abs/1604.07866)
 > use Siamese CNN to learn similarity, for data association, graph solved by Linear Programming 
 
 ### 2014
-- Learning an image-based motion context for multiple people tracking, Leal-Taixe et al.
+- Learning an image-based motion context for multiple people tracking, Leal-Taixe et al. [[paper]](https://ieeexplore.ieee.org/document/6909848)
 > interaction between objects, relax the dependency of tracking on detections
 
 
 ## Multi Target Multi Camera Tracking Paper
 
 ### 2020
-- Real-time 3D Deep Multi-Camera Tracking, You & Jiang
+- Real-time 3D Deep Multi-Camera Tracking, You & Jiang [[paper]](https://arxiv.org/abs/2003.11753)
 > fusion all views into ground-plane occupancy heatmap 
 
-- City-Scale Multi-Camera Vehicle Tracking by Semantic Attribute Parsing and Cross-Camera Tracklet Matching, He et al. 
+- City-Scale Multi-Camera Vehicle Tracking by Semantic Attribute Parsing and Cross-Camera Tracklet Matching, He et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/He_City-Scale_Multi-Camera_Vehicle_Tracking_by_Semantic_Attribute_Parsing_and_Cross-Camera_CVPRW_2020_paper.pdf)
 > tracklet representation with spatial-temporal attention, then tracklet-to-target assignment
 
-- Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment, He et al.
+- Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment, He et al. [[paper]](https://ieeexplore.ieee.org/document/9042858)
 > tracklet-to-target assignment
 
-- AI City Challenge 2020 – Computer Vision for Smart Transportation Applications, Chang et al.
+- AI City Challenge 2020 – Computer Vision for Smart Transportation Applications, Chang et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Chang_AI_City_Challenge_2020_-_Computer_Vision_for_Smart_Transportation_CVPRW_2020_paper.pdf)
 > single camera tracklet -> multi-camera tracklet fusion with appearance and physical features
 
-- Multi-Camera Tracking of Vehicles based on Deep Features Re-ID and Trajectory-Based Camera Link Models, Hsu et al.
+- Multi-Camera Tracking of Vehicles based on Deep Features Re-ID and Trajectory-Based Camera Link Models, Hsu et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Hsu_Multi-Camera_Tracking_of_Vehicles_based_on_Deep_Features_Re-ID_and_CVPRW_2019_paper.pdf)
 > use TrackletNet for single camera trajectory -> inter-camera tracking
 
-- ELECTRICITY: An Efficient Multi-camera Vehicle Tracking System for Intelligent City, Qian et al.
+- ELECTRICITY: An Efficient Multi-camera Vehicle Tracking System for Intelligent City, Qian et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Qian_ELECTRICITY_An_Efficient_Multi-Camera_Vehicle_Tracking_System_for_Intelligent_City_CVPRW_2020_paper.pdf)
 > single camera tracking -> match tracklets across camera views
 
-- Pose-Assisted Multi-Camera Collaboration for Active Object Tracking, Li et al.
+- Pose-Assisted Multi-Camera Collaboration for Active Object Tracking, Li et al. [[paper]](https://arxiv.org/abs/2001.05161) [[code]](https://github.com/LilJing/pose-assisted-collaboration)
 > Reinforcement learning, collaborative multi-camera
 
-- Reconstruction of 3D flight trajectories from ad-hoc camera networks, Li et al.
+- Reconstruction of 3D flight trajectories from ad-hoc camera networks, Li et al. [[paper]](https://arxiv.org/abs/2003.04784) [[code]](https://github.com/CenekAlbl/mvus)
 > camera synchronization, SfM, Bundle Adjustment, spline representation for drone trajectory  
 
 ### 2019
-- People tracking in multi-camera systems: a review, Iguernaissi et al.
+- People tracking in multi-camera systems: a review, Iguernaissi et al. [[paper]](https://link.springer.com/article/10.1007/s11042-018-6638-5)
 > Centralized (combine cross-camera views before tracking, like Wen et al.) and Distributed methods (single-camera tracking before fusion)
 
 ### 2018
-- Features for Multi-Target Multi-Camera Tracking and Re-Identification, Ristani & Tomasi
+- Features for Multi-Target Multi-Camera Tracking and Re-Identification, Ristani & Tomasi [[paper]](https://arxiv.org/abs/1803.10859)
 > tracklet -> single camera trajectory (correlation clustering) -> multi camera trajectory
 
-- Vehicle Re-Identification with the Space-Time Prior, Wu et al. [[code]](https://github.com/cw1204772/AIC2018_iamai)
+- Vehicle Re-Identification with the Space-Time Prior, Wu et al. [[paper]](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf) [[code]](https://github.com/cw1204772/AIC2018_iamai)
 > single camera tracking -> CNN feature extraction -> multi camera tracking (KMeans)
 
 ### 2017
-- Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-graph, Wen et al. 
+- Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-graph, Wen et al. [[paper]](https://link.springer.com/article/10.1007/s11263-016-0943-0)
 > 3D position for affinity computation, need know camera parameters, cross-view coupling before trajectory
 
 
