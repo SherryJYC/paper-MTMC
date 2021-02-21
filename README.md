@@ -104,9 +104,11 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 
 ## Useful Github Repo
-- [Multi-Camera Live Object Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
+- [Multi-camera live object tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
 
 - [Resource collection about multi camera network](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network)<br/>
+
+- [Recource collection about multi object tracking](https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list)
 
 - [UAV detection and tracking](https://github.com/tau-adl/Detection_Tracking_JetsonTX2)<br/>
 
