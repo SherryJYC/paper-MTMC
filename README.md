@@ -1,7 +1,7 @@
 # MTMC
 A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
-<details><summary>Show Content</summary>
+<details><summary>Click to show menu</summary>
 <p>
 
 1. <a href="#multi-target-single-camera-tracking-paper">Multi Target Single Camera Tracking Paper </a> <br/>
