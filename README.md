@@ -4,11 +4,11 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 <details><summary>Show Content</summary>
 <p>
 
-<a href="#multi-target-single-camera-tracking-paper">Multi Target Single Camera Tracking Paper </a>
-<a href="#multi-target-multi-camera-tracking-paper">Multi Target Multi Camera Tracking Paper </a>
-<a href="#related-github-repo">Related Github Repo</a>
-<a href="#related-competition">Related Competition</a>
-<a href="#related-group-or-researcher">Related Group or Researcher</a>
+1. <a href="#multi-target-single-camera-tracking-paper">Multi Target Single Camera Tracking Paper </a> <br/>
+2. <a href="#multi-target-multi-camera-tracking-paper">Multi Target Multi Camera Tracking Paper </a> <br/>
+3. <a href="#related-github-repo">Related Github Repo</a> <br/>
+4. <a href="#related-competition">Related Competition</a> <br/>
+5. <a href="#related-group-or-researcher">Related Group or Researcher</a>
 
 </p>
 </details>
