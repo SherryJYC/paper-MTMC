@@ -20,10 +20,10 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 > Transformer, detection and tracking simultaneously
 
 ### 2020
-- How To Train Your Deep Multi-Object Tracker, Xu et al. [[paper]](https://arxiv.org/abs/1906.06618)
+- How To Train Your Deep Multi-Object Tracker, Xu et al. :rainbow: [[paper]](https://arxiv.org/abs/1906.06618)
 > Deep Hungarian Net, approximate MOTA, MOTP for loss function directly
 
-- Learning a Neural Solver for Multiple Object Tracking, Braso & Leal-Taixe [[paper]](https://arxiv.org/abs/1912.07515)
+- Learning a Neural Solver for Multiple Object Tracking, Braso & Leal-Taixe :rainbow: [[paper]](https://arxiv.org/abs/1912.07515)
 > apperance embedding (node) and geometry distance embedding (edge) for graph, edge classification with cross entropy loss 
 
 - Deep learning in video multi-object tracking: A survey, Ciaparrone et al. [[paper]](https://arxiv.org/abs/1907.12740)
@@ -114,11 +114,11 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 > single camera tracking -> CNN feature extraction -> multi camera tracking (KMeans)
 
 ### 2017
-- Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-graph, Wen et al. [[paper]](https://link.springer.com/article/10.1007/s11263-016-0943-0)
+- Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-graph, Wen et al. :rainbow: [[paper]](https://link.springer.com/article/10.1007/s11263-016-0943-0)
 > 3D position for affinity computation, need know camera parameters, cross-view coupling before trajectory
 
 ### 2013
-- Hypergraphs for joint multi-view reconstruction and multi-object tracking, Hofmann et al. [[paper]](https://ieeexplore.ieee.org/document/6619312) [[code]](https://github.com/neohanju/HYPERGRAPH_TRACKING)
+- Hypergraphs for joint multi-view reconstruction and multi-object tracking, Hofmann et al. :rainbow: [[paper]](https://ieeexplore.ieee.org/document/6619312) [[code]](https://github.com/neohanju/HYPERGRAPH_TRACKING)
 > detection as node in hypergraph to find 3d reconstruction, which is node in a min-cost flow graph, solved by binary linear programming
 
 ## Related Github Repo
