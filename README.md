@@ -119,6 +119,10 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 - Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-graph, Wen et al. :rainbow: [[paper]](https://link.springer.com/article/10.1007/s11263-016-0943-0)
 > 3D position for affinity computation, need know camera parameters, cross-view coupling before trajectory
 
+### 2014
+- Persistent Tracking for Wide Area Aerial Surveillance, Prokaj & Medioni :rainbow: [[paper]](https://ieeexplore.ieee.org/document/6909551)
+> two tracker (detection and regression) in parallel, measure their correspondence
+
 ### 2013
 - Hypergraphs for joint multi-view reconstruction and multi-object tracking, Hofmann et al. :rainbow: [[paper]](https://ieeexplore.ieee.org/document/6619312) [[code]](https://github.com/neohanju/HYPERGRAPH_TRACKING)
 > detection as node in hypergraph to find 3d reconstruction, which is node in a min-cost flow graph, solved by binary linear programming
