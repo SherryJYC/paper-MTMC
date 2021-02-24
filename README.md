@@ -140,6 +140,8 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 - [OpenMMLab: toolbox for SOT, MOT](https://github.com/open-mmlab/mmtracking)
 
+- [DeepOcculusion](https://github.com/pierrebaque/DeepOcclusion)
+
 ## Related Competition
 - [AI City Challenge](https://www.aicitychallenge.org/)
 
