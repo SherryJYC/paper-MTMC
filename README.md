@@ -1,5 +1,5 @@
 # MTMC
-A paper list of Multi target Multi Camera (MTMC) tracking and related topics
+A paper list of Multi Target Multi Camera (MTMC) tracking and related topics
 
 <details><summary>Click to show menu</summary>
 <p>
