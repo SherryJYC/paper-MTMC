@@ -1,8 +1,6 @@
 # MTMC
 A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
-:rainbow: : marks my personal favorite
-
 <details><summary>Click to show menu</summary>
 <p>
 
@@ -110,6 +108,8 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 
 - CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification, Tang et al. [[paper]](https://arxiv.org/abs/1903.09254)
 
+- Real-Time Multi-Target Multi-Camera Tracking with Spatial-Temporal Information, Zhang & Izquierdo :rainbow: [[paper]](https://ieeexplore.ieee.org/document/8965845)
+> single camera detection -> create/match to track, with apperance, motion, spatial-temporal cues (cross-camera)
 
 ### 2018
 - Features for Multi-Target Multi-Camera Tracking and Re-Identification, Ristani & Tomasi [[paper]](https://arxiv.org/abs/1803.10859) [[code]](https://github.com/SamvitJ/Duke-DeepCC)
