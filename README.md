@@ -78,6 +78,10 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 
 ## Multi Target Multi Camera Tracking Paper
 
+### 2021
+- Online Clustering-based Multi-Camera Vehicle Tracking in Scenarios with overlapping FOVs, Luna et al. [[paper]](https://arxiv.org/pdf/2102.04091.pdf)
+> detection-> feature extraction, homography -> cross-camera cluster -> incremental temporal association, small latency, not very accurate
+
 ### 2020
 - Real-time 3D Deep Multi-Camera Tracking, You & Jiang [[paper]](https://arxiv.org/abs/2003.11753)
 > fusion all views into ground-plane occupancy heatmap 
