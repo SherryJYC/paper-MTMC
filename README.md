@@ -52,6 +52,9 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 - Exploit the Connectivity: Multi-Object Tracking with TrackletNet, Wang et al. [[paper]](https://arxiv.org/abs/1811.07258)
 > use epipolar geometry, tracklet as node in graph
 
+- Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification, Chen et al. [[paper]](https://arxiv.org/abs/1809.04427)[[code]](https://github.com/longcw/MOTDT)
+> online MOT tracker
+
 ### 2017
 - Multi-Object Tracking with Quadruplet Convolutional Neural Networks, Son et al. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Son_Multi-Object_Tracking_With_CVPR_2017_paper.pdf)
 > learn statistics to normalize effect of camera poses, temporal adjacent constraint for data association 
@@ -141,6 +144,8 @@ A paper list of Multi target Multi Camera (MTMC) tracking and related topics
 - [OpenMMLab: toolbox for SOT, MOT](https://github.com/open-mmlab/mmtracking)
 
 - [DeepOcculusion](https://github.com/pierrebaque/DeepOcclusion)
+
+- [MOT Metrics library (Python)](https://github.com/cheind/py-motmetrics)
 
 ## Related Competition
 - [AI City Challenge](https://www.aicitychallenge.org/)
