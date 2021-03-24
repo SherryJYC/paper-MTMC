@@ -142,6 +142,8 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 
 - [Recource collection about multi object tracking](https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list)
 
+- [Multi Object Tracking Paper List](https://github.com/SpyderXu/multi-object-tracking-paper-list)
+
 - [UAV detection and tracking](https://github.com/tau-adl/Detection_Tracking_JetsonTX2)<br/>
 
 - [Resource collection about person reid dataset](https://github.com/NEU-Gou/awesome-reid-dataset)<br/>
