@@ -166,6 +166,8 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 
 - [Waymo Open Dataset Challenge](https://waymo.com/open/challenges)
 
+- [DJI Drone Images](https://github.com/chuanenlin/drone-net)
+
 ## Related Group or Researcher
 
 - [Dynamic Vision and Learning Group, TUM](https://dvl.in.tum.de/research/)
