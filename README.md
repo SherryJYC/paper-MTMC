@@ -159,14 +159,14 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 ## Related Dataset
 - [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
 
+- [DJI Drone Images](https://github.com/chuanenlin/drone-net)
+
 ## Related Competition
 - [AI City Challenge](https://www.aicitychallenge.org/)
 
 - [Anti-UAV Challenge](https://anti-uav.github.io/)
 
 - [Waymo Open Dataset Challenge](https://waymo.com/open/challenges)
-
-- [DJI Drone Images](https://github.com/chuanenlin/drone-net)
 
 ## Related Group or Researcher
 
