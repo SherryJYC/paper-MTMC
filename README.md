@@ -83,6 +83,9 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 > detection-> feature extraction, homography -> cross-camera cluster -> incremental temporal association, small latency, not very accurate
 
 ### 2020
+- Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking, Peng et al. :rainbow:  [[paper]](https://arxiv.org/abs/2007.14557) [[code]](https://github.com/pjl1995/CTracker) 
+> end-to-end MOT, use adjacent frames (chained) to combine detection, feature extraction and tracking 
+
 - Real-time 3D Deep Multi-Camera Tracking, You & Jiang [[paper]](https://arxiv.org/abs/2003.11753)
 > fusion all views into ground-plane occupancy heatmap 
 
