@@ -159,6 +159,8 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 
 - [MOT Metrics library (Python) 2](https://github.com/Videmo/pymot)
 
+- [Multi camera person tracker for synthetic data](https://github.com/koehlp/wda_tracker)
+
 ## Related Dataset
 - [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
 
