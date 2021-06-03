@@ -111,8 +111,8 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 - Reconstruction of 3D flight trajectories from ad-hoc camera networks, Li et al. [[paper]](https://arxiv.org/abs/2003.04784) [[code]](https://github.com/CenekAlbl/mvus)
 > camera synchronization, SfM, Bundle Adjustment, spline representation for drone trajectory  
 
-- [The MTA Dataset for Multi Target Multi Camera Pedestrian Tracking
-by Weighted Distance Aggregation](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Kohl_The_MTA_Dataset_for_Multi-Target_Multi-Camera_Pedestrian_Tracking_by_Weighted_CVPRW_2020_paper.pdf)
+- The MTA Dataset for Multi Target Multi Camera Pedestrian Tracking
+by Weighted Distance Aggregation [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Kohl_The_MTA_Dataset_for_Multi-Target_Multi-Camera_Pedestrian_Tracking_by_Weighted_CVPRW_2020_paper.pdf)
 > combine appearance and homography for hierachical clustering, known camera pose
 
 ### 2019
@@ -167,7 +167,7 @@ by Weighted Distance Aggregation](https://openaccess.thecvf.com/content_CVPRW_20
 - [Multi camera person tracker for synthetic data](https://github.com/koehlp/wda_tracker)
 
 ## Related Dataset
-- [Multi Track Auto (GTA)] (https://github.com/schuar-iosb/mta-dataset) [[baseline provided](https://github.com/koehlp/wda_tracker)]
+- [Multi Track Auto (GTA)](https://github.com/schuar-iosb/mta-dataset) [[baseline provided](https://github.com/koehlp/wda_tracker)]
 
 - [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
 
