@@ -30,6 +30,9 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 - Deep learning in video multi-object tracking: A survey, Ciaparrone et al. [[paper]](https://arxiv.org/abs/1907.12740)
 > pipeline: detection, feature extraction, affinity, association
 
+- Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking, Peng et al. :rainbow:  [[paper]](https://arxiv.org/abs/2007.14557) [[code]](https://github.com/pjl1995/CTracker) 
+> end-to-end MOT, use adjacent frames (chained) to combine detection, feature extraction and tracking 
+
 ### 2019
 - Spatial-Temporal Relation Networks for Multi-Object Tracking, Xu et al. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Spatial-Temporal_Relation_Networks_for_Multi-Object_Tracking_ICCV_2019_paper.pdf)
 > use appearance, location and topology cues for similarity score, then graph solved by Hungarian algorithm
@@ -83,8 +86,6 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 > detection-> feature extraction, homography -> cross-camera cluster -> incremental temporal association, small latency, not very accurate
 
 ### 2020
-- Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking, Peng et al. :rainbow:  [[paper]](https://arxiv.org/abs/2007.14557) [[code]](https://github.com/pjl1995/CTracker) 
-> end-to-end MOT, use adjacent frames (chained) to combine detection, feature extraction and tracking 
 
 - Real-time 3D Deep Multi-Camera Tracking, You & Jiang [[paper]](https://arxiv.org/abs/2003.11753)
 > fusion all views into ground-plane occupancy heatmap 
