@@ -115,6 +115,8 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 by Weighted Distance Aggregation [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Kohl_The_MTA_Dataset_for_Multi-Target_Multi-Camera_Pedestrian_Tracking_by_Weighted_CVPRW_2020_paper.pdf)
 > combine appearance and homography for hierachical clustering, known camera pose
 
+- Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS, Chen et al. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cross-View_Tracking_for_Multi-Human_3D_Pose_Estimation_at_Over_100_CVPR_2020_paper.pdf) 
+
 ### 2019
 - People tracking in multi-camera systems: a review, Iguernaissi et al. [[paper]](https://link.springer.com/article/10.1007/s11042-018-6638-5)
 > Centralized (combine cross-camera views before tracking, like Wen et al.) and Distributed methods (single-camera tracking before fusion)
@@ -142,6 +144,9 @@ by Weighted Distance Aggregation [[paper]](https://openaccess.thecvf.com/content
 ### 2013
 - Hypergraphs for joint multi-view reconstruction and multi-object tracking, Hofmann et al. :rainbow: [[paper]](https://ieeexplore.ieee.org/document/6619312) [[code]](https://github.com/neohanju/HYPERGRAPH_TRACKING)
 > detection as node in hypergraph to find 3d reconstruction, which is node in a min-cost flow graph, solved by binary linear programming
+
+### 2012
+- Branch-and-price global optimization for multi-view multi-target tracking, Leal-Taixé et al. [[paper]](https://www.researchgate.net/publication/261200087_Branch-and-price_global_optimization_for_multi-view_multi-target_tracking)
 
 ## Related Github Repo
 - [Multi-camera live object tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
