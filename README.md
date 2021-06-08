@@ -17,6 +17,9 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 ## Multi Target Single Camera Tracking Paper 
 
 ### 2021
+- Quasi-Dense Similarity Learning for Multiple Object Tracking, [[paper]](https://arxiv.org/abs/2006.06664) [[code]](https://github.com/SysCV/qdtrack)
+> instance similarity learning based on region proposal, flexible, no external data required
+
 - TrackFormer: Multi-Object Tracking with Transformers, Meinhardt et al. [[paper]](https://arxiv.org/abs/2101.02702)
 > Transformer, detection and tracking simultaneously
 
