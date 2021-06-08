@@ -9,8 +9,9 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 2. <a href="#multi-target-multi-camera-tracking-paper">Multi Target Multi Camera Tracking Paper </a> <br/>
 3. <a href="#related-github-repo">Related Github Repo</a> <br/>
 4. <a href="#related-competition">Related Competition</a> <br/>
+<!--
 5. <a href="#related-group-or-researcher">Related Group or Researcher</a>
-
+-->
 </p>
 </details>
 
@@ -177,6 +178,8 @@ by Weighted Distance Aggregation [[paper]](https://openaccess.thecvf.com/content
 ## Related Dataset
 - [Multi Track Auto (GTA)](https://github.com/schuar-iosb/mta-dataset) [[baseline provided](https://github.com/koehlp/wda_tracker)]
 
+- [BDD100K large driving dataset](https://github.com/bdd100k/bdd100k)
+
 - [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
 
 - [DJI Drone Images](https://github.com/chuanenlin/drone-net)
@@ -188,6 +191,7 @@ by Weighted Distance Aggregation [[paper]](https://openaccess.thecvf.com/content
 
 - [Waymo Open Dataset Challenge](https://waymo.com/open/challenges)
 
+<!--
 ## Related Group or Researcher
 
 - [Dynamic Vision and Learning Group, TUM](https://dvl.in.tum.de/research/)
