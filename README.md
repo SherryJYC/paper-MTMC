@@ -86,6 +86,9 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 ## Multi Target Multi Camera Tracking Paper
 
 ### 2021
+- DyGLIP: A Dynamic Graph Model with Link Prediction for Accurate Multi-Camera Multiple Object Tracking, Quach et al. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Quach_DyGLIP_A_Dynamic_Graph_Model_With_Link_Prediction_for_Accurate_CVPR_2021_paper.pdf)
+> tracklet as node, link prediction for data association, ok for w/wo overalaping view, use large training data 
+
 - Online Clustering-based Multi-Camera Vehicle Tracking in Scenarios with overlapping FOVs, Luna et al. [[paper]](https://arxiv.org/pdf/2102.04091.pdf)
 > detection-> feature extraction, homography -> cross-camera cluster -> incremental temporal association, small latency, not very accurate
 
