@@ -100,7 +100,7 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 - City-Scale Multi-Camera Vehicle Tracking by Semantic Attribute Parsing and Cross-Camera Tracklet Matching, He et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/He_City-Scale_Multi-Camera_Vehicle_Tracking_by_Semantic_Attribute_Parsing_and_Cross-Camera_CVPRW_2020_paper.pdf)
 > tracklet representation with spatial-temporal attention, then tracklet-to-target assignment
 
-- Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment, He et al. [[paper]](https://ieeexplore.ieee.org/document/9042858)
+- Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment, He et al. [[paper]](https://ieeexplore.ieee.org/document/9042858) [[code]](https://github.com/GehenHe/TRACTA)
 > tracklet-to-target assignment
 
 - AI City Challenge 2020 – Computer Vision for Smart Transportation Applications, Chang et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Chang_AI_City_Challenge_2020_-_Computer_Vision_for_Smart_Transportation_CVPRW_2020_paper.pdf)
