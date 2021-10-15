@@ -18,6 +18,9 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 ## Multi Target Single Camera Tracking Paper 
 
 ### 2021
+- ByteTrack: Multi-Object Tracking by Associating Every Detection Box, Zhang et al. [[paper]](https://arxiv.org/abs/2110.06864) [[code]](https://github.com/ifzhang/ByteTrack)
+> at first associate box with high detection score, then associate box with low detection score, improve tracking on occluded objects
+
 - Quasi-Dense Similarity Learning for Multiple Object Tracking, Pang et al. :rainbow: [[paper]](https://arxiv.org/abs/2006.06664) [[code]](https://github.com/SysCV/qdtrack)
 > instance similarity learning based on region proposal, flexible, no external data required
 
