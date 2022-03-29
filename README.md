@@ -17,6 +17,10 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 
 ## Multi Target Single Camera Tracking Paper 
 
+### 2022
+- Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking, Cao et al. [[paper]](https://arxiv.org/abs/2203.14360) [[code]](https://github.com/noahcao/OC_SORT)
+> interesting to see a variant of SORT (observation-centered) achieve decent results (waiting for codes)
+
 ### 2021
 - ByteTrack: Multi-Object Tracking by Associating Every Detection Box, Zhang et al. [[paper]](https://arxiv.org/abs/2110.06864) [[code]](https://github.com/ifzhang/ByteTrack)
 > at first associate box with high detection score, then associate box with low detection score, improve tracking on occluded objects
