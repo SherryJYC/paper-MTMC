@@ -19,7 +19,7 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 
 ### 2022
 - Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking, Cao et al. [[paper]](https://arxiv.org/abs/2203.14360) [[code]](https://github.com/noahcao/OC_SORT)
-> interesting to see a variant of SORT (observation-centered) achieve decent results (waiting for codes)
+> interesting to see a variant of SORT (observation-centered) achieve decent results 
 
 - PoserNet: Refining Relative Camera Poses Exploiting Object Detections, Taiana et al. :rainbow: [[paper]](https://arxiv.org/pdf/2207.09445.pdf) [[code]](https://github.com/IIT-PAVIS/PoserNet)
 > not tracking but seems applicable in MC-tracking, detect bbox from images and match roughly, use interesting GNN formulation to refine camera pose: image as node, edge as relative pose, bbox info added during message passing
