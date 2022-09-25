@@ -204,6 +204,8 @@ by Weighted Distance Aggregation [[paper]](https://openaccess.thecvf.com/content
 
 - [Waymo Open Dataset Challenge](https://waymo.com/open/challenges)
 
+- [SoccerNet](https://www.soccer-net.org/home)
+
 <!--
 ## Related Group or Researcher
 
