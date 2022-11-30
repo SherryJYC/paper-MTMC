@@ -95,6 +95,10 @@ including application case in: vehicle tracking :red_car: , pedestrian tracking 
 
 ## Multi Target Multi Camera Tracking Paper
 
+### 2022
+- Graph Convolutional Network for Multi-Target Multi-Camera Vehicle Tracking, Luna et al. [[paper]](https://arxiv.org/pdf/2211.15538.pdf)
+> step 1: single camera tracking & generate appearance feature, step 2: multi camera association with GNN (single camera trajectories as node, averaged feature as node feature, cos(feature) as edge feature), weighted loss for imbalance
+
 ### 2021
 - DyGLIP: A Dynamic Graph Model with Link Prediction for Accurate Multi-Camera Multiple Object Tracking, Quach et al. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Quach_DyGLIP_A_Dynamic_Graph_Model_With_Link_Prediction_for_Accurate_CVPR_2021_paper.pdf)
 > tracklet as node, link prediction for data association, ok for w/wo overalaping view, use large training data 
